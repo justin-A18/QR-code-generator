@@ -1,7 +1,3 @@
-¡Claro!
-
----
-
 # Generador de Códigos QR de Citas
 
 Esta es una aplicación simple de generación de códigos QR que permite a los usuarios generar códigos QR para URLs. Los usuarios pueden ingresar una URL, generar un código QR, descargar la imagen del código QR y copiar la cita al portapapeles.
